@@ -1,0 +1,41 @@
+body{
+    background: url(https://coffee.alexflipnote.dev/7rX_r42zquc_coffee.jpg);
+}
+ #display {
+    font-family: cursive;
+  }
+  
+  .card {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_lf4jP0GzEVWSKlBMx4G94ldrsjozm7YEQ&usqp=CAU);
+    margin: 1rem;
+   
+    max-width: 20rem;
+    height: 650px; 
+    display: grid;
+    padding: 20px;
+    gap: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-header {
+    place-items: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #8eec91;
+    margin: 1px;
+    padding: 5px;
+    align-items: center;
+    font-style: italic;
+  }
+  
+  .card-text {
+    color: #ddf46b;
+    font-weight: bolder;
+    font-size: x-large;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+    font-style: italic bold;
+    font-family: cursive;
+  }
+  
